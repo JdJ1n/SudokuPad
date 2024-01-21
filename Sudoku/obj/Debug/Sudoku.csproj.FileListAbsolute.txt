@@ -1,0 +1,188 @@
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\bin\Debug\Sudoku.exe.config
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\bin\Debug\Sudoku.exe
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\bin\Debug\Sudoku.pdb
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\MainWindow.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\SubBox.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\App.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\Sudoku_MarkupCompile.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\Sudoku_MarkupCompile.lref
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\MainWindow.baml
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\SubBox.baml
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\Sudoku.g.resources
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\Sudoku.Properties.Resources.resources
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\Sudoku.exe
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku1\obj\Debug\Sudoku.pdb
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\bin\Debug\Sudoku.exe.config
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\bin\Debug\Sudoku.exe
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\bin\Debug\Sudoku.pdb
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku\MainWindow.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku\SubBox.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku\App.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku_MarkupCompile.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku_MarkupCompile.lref
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku\MainWindow.baml
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku\SubBox.baml
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku.g.resources
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku.Properties.Resources.resources
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku.exe
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku2\obj\Debug\Sudoku.pdb
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\bin\Debug\Sudoku.exe.config
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\bin\Debug\Sudoku.exe
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\bin\Debug\Sudoku.pdb
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku\MainWindow.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku\SubBox.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku\App.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku\MainWindow.baml
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku\SubBox.baml
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku.g.resources
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku.exe
+D:\课\2021 Automne\INF1035\sudoku-generator-1.2\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\hegti\source\repos\projet\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\hegti\source\repos\projet\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\hegti\source\repos\projet\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku\MainWindow.g.cs
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku\SubBox.g.cs
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku\App.g.cs
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku\MainWindow.baml
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku\SubBox.baml
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\hegti\source\repos\projet\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\hegti\Desktop\projet\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\hegti\Desktop\projet\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\hegti\Desktop\projet\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku\MainWindow.g.cs
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku\SubBox.g.cs
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku\App.g.cs
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku\MainWindow.baml
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku\SubBox.baml
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\hegti\Desktop\projet\Sudoku\obj\Debug\Sudoku.pdb
+D:\GitLocal\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.exe.config
+D:\GitLocal\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.exe
+D:\GitLocal\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.pdb
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\MainWindow.g.cs
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\SubBox.g.cs
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\App.g.cs
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\MainWindow.baml
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\SubBox.baml
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.g.resources
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.exe
+D:\GitLocal\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\MainWindow.g.cs
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\SubBox.g.cs
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\App.g.cs
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\MainWindow.baml
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\SubBox.baml
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\System.Buffers.dll
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\System.Memory.dll
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\System.Buffers.xml
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\System.Memory.xml
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hegti\Source\Repos\wflageol-uqtr\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.CopyComplete
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\System.Buffers.dll
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\System.Memory.dll
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\System.Buffers.xml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\System.Memory.xml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku\MainWindow.g.cs
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku\SubBox.g.cs
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku\App.g.cs
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku\MainWindow.baml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku\SubBox.baml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\hegti\Source\Repos\projet-de-session-yyds1\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\System.Buffers.dll
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\System.Memory.dll
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\System.Buffers.xml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\System.Memory.xml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.ResolveComReference.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\MainWindow.g.cs
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\SubBox.g.cs
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\App.g.cs
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\MainWindow.baml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku\SubBox.baml
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.g.resources
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\hegti\Source\Repos\projet-de-session-yyds\Sudoku\obj\Debug\Sudoku.pdb
